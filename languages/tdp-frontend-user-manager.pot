@@ -1,0 +1,136 @@
+# Copyright (C) 2014 WP Job Manager
+# This file is distributed under the same license as the WP Job Manager package.
+msgid ""
+msgstr ""
+"Project-Id-Version: TDP - User Frontend Manager 1.0.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-job-manager\n"
+"POT-Creation-Date: 2014-04-09 11:08+0100\n"
+"PO-Revision-Date: 2014-04-09 11:08+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-KeywordsList: _;_e;gettext;gettext_noop;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: tdp-frontend-user-manager.php:106
+msgid "Checking Credentials..."
+msgstr ""
+
+#: tdp-frontend-user-manager.php:107
+msgid "Processing Registration..."
+msgstr ""
+
+#: tdp-frontend-user-manager.php:132
+msgid "Wrong Username or Password!"
+msgstr ""
+
+#: tdp-frontend-user-manager.php:137
+msgid "Login Successful!"
+msgstr ""
+
+#: tdp-frontend-user-manager.php:154
+msgid "Login"
+msgstr ""
+
+#: tdp-frontend-user-manager.php:163 tdp-frontend-user-manager.php:285
+msgid "Username"
+msgstr ""
+
+#: tdp-frontend-user-manager.php:168
+msgid "Password"
+msgstr ""
+
+#: tdp-frontend-user-manager.php:175
+msgid "Remember Me"
+msgstr ""
+
+#: tdp-frontend-user-manager.php:182
+msgid "Log In"
+msgstr ""
+
+#: tdp-frontend-user-manager.php:197 tdp-frontend-user-manager.php:313
+msgid "You are already logged in."
+msgstr ""
+
+#: tdp-frontend-user-manager.php:245
+#, php-format
+msgid "Something was wrong:</br> %s"
+msgstr ""
+
+#: tdp-frontend-user-manager.php:253
+msgid "Registration was successful!"
+msgstr ""
+
+#: tdp-frontend-user-manager.php:276
+msgid "Register Now"
+msgstr ""
+
+#: tdp-frontend-user-manager.php:290
+msgid "Email"
+msgstr ""
+
+#: tdp-frontend-user-manager.php:300
+msgid "A password will be emailed to you."
+msgstr ""
+
+#: tdp-frontend-user-manager.php:349
+msgid "Password Reset. Please check your email."
+msgstr ""
+
+#: tdp-frontend-user-manager.php:371
+msgid "Please enter a username or e-mail address."
+msgstr ""
+
+#: tdp-frontend-user-manager.php:375
+msgid "There is no user registered with that email address."
+msgstr ""
+
+#: tdp-frontend-user-manager.php:387
+msgid "Invalid username or e-mail."
+msgstr ""
+
+#: tdp-frontend-user-manager.php:400
+msgid "Password reset is not allowed for this user"
+msgstr ""
+
+#: tdp-frontend-user-manager.php:412
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: tdp-frontend-user-manager.php:414
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: tdp-frontend-user-manager.php:415
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: tdp-frontend-user-manager.php:416
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: tdp-frontend-user-manager.php:427
+#, php-format
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: tdp-frontend-user-manager.php:432
+msgid ""
+"The e-mail could not be sent. Possible reason: your host may have disabled "
+"the mail() function."
+msgstr ""
+
+#: tdp-frontend-user-manager.php:450
+msgid "Recover Your Password"
+msgstr ""
+
+#: tdp-frontend-user-manager.php:457
+msgid "Username or Email"
+msgstr ""
